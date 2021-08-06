@@ -1,1 +1,299 @@
-{}
+{
+    "key": "logo-website-squarespace",
+    "title": "Logo & Squarespace website",
+    "pageTitle": "Logo & Squarespace: Logo & Squarespace website design",
+    "productName": "logo & Squarespace website",
+    "hero": {
+        "titlePrefix": "Shine online with a",
+        "title": "Custom logo & Squarespace website",
+        "description": "The two must-haves for any brand are available in one nifty bundle. Get a custom logo design with a matching Squarespace website, all in one easy flow.",
+        "headingGradient": ["#6A0574", "#F31D8F"],
+        "interaction": {
+            "link": "https://99designs.com/briefs/logo-web-bundle/create",
+            "buttonColor": "#AD1181",
+            "buttonText": "Get started"
+        },
+        "heroImage": {
+            "src": "categoryPage/hero/logo-website-squarespace/heroFeatureImage/website-Armin-Braunsberger.jpg",
+            "altText": "A website by Armin Braunsberger showing an astronaut with smoke creeping out of their helmet.",
+            "designer": "Armin Braunberger"
+        },
+        "images": [
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/01-artsigma.jpg",
+                "designer": "artsigma",
+                "title": ""
+            },
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/02-green-in-blue.jpg",
+                "designer": "green in blue",
+                "title": "Mister Frosty's Ice cream"
+            },
+
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/03-Artvin.jpg",
+                "designer": "Artvin",
+                "title": "Platypus Films"
+            },
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/04-El-maestro.jpg",
+                "designer": "El maestro",
+                "title": "Down North Apparel"
+            },
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/05-DORARPOL.jpg",
+                "designer": "DORARPOL™",
+                "title": "Black Heroes Matter"
+            },
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/06-thisisremedy.jpg",
+                "designer": "thisisremedy",
+                "title": "Palm CBD"
+            },
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/07-olimpio.jpg",
+                "designer": "olimpio",
+                "title": "Wanderlust Rd"
+            },
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/08-pmo.jpg",
+                "designer": "pmo",
+                "title": ""
+            },
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/09-ananana14.jpg",
+                "designer": "ananana14",
+                "title": "Space Pie"
+            },
+            {
+                "src": "categoryPage/hero/logo-website-squarespace/10-Cross-the-Lime.jpg",
+                "designer": "Cross the Lime",
+                "title": ""
+            }
+        ]
+    },
+    "howItWorks": {
+        "title": "How it works",
+        "titleColor": "#007BE7",
+        "steps": [
+            {
+                "title": "Start a logo contest",
+                "description": "Describe your perfect logo and set your budget. Designers will submit their ideas while you provide feedback and pick your favorite. It’s kinda like picking your favorite song.",
+                "image": {
+                    "src": "how-it-works/hiw-web-bundle-01.svg",
+                    "alt": "Illustration by Spoon Lancer of three people. One person is sketching plans while the others fly a homemade aircraft.",
+                    "width": 352,
+                    "height": 284,
+                    "scale": 1.07,
+                    "offset": [-8, 1]
+                }
+            },
+            {
+                "title": "Continue to a website project",
+                "description": "We’ll help to match you with a separate, Squarespace Expert. Fill out a simple brief and start collaborating one-on-one with your web Expert – they’ll design a killer Squarespace site that works perfectly with your impressive, new logo and brand identity.",
+                "image": {
+                    "src": "how-it-works/hiw-web-bundle-02.svg",
+                    "alt": "Illustration by Spoon Lancer of two people constructing an airplane.",
+                    "width": 399,
+                    "height": 269,
+                    "scale": 1.1,
+                    "offset": [-5, 11]
+                }
+            },
+            {
+                "title": "Bring your brand to life",
+                "description": "Once your fresh logo and Squarespace website are live and living happily online, you can log in to Squarespace at any time to easily manage your website (no complex coding knowledge needed).",
+                "image": {
+                    "src": "how-it-works/hiw-web-bundle-03.svg",
+                    "alt": "Illustration by Spoon Lancer of two people flying an airplane.",
+                    "attribution": "Spoon Lancer",
+                    "width": 366,
+                    "height": 279,
+                    "scale": 1.1,
+                    "offset": [-5, -3]
+                }
+            }
+        ]
+    },
+    "details": {
+        "title": "Expert design & delivery",
+        "productDetails": [
+            {
+                "id": "logo-design-details",
+                "title": "Logo design",
+                "features": [
+                    "100% money-back guarantee",
+                    "Multiple unique logo concepts",
+                    "1 finished, completely custom logo design",
+                    "Digital, print, web files (RGB, CMYK, PNG, JPEG, PDF)"
+                ]
+            },
+            {
+                "id": "squarespace-website",
+                "title": "Squarespace website",
+                "features": [
+                    "A fully-functioning website",
+                    "A customized design that matches your brand",
+                    "Web Experts to guide you ",
+                    "Your content uploaded for you",
+                    "Choice of two package options"
+                ]
+            },
+            {
+                "id": "99designs-details",
+                "title": "Why choose 99designs",
+                "leadingParagraph": {
+                    "copy": "99designs is the most trusted source for logo design online. We invented design contests and have been growing and improving our platform ever since. We offer:"
+                },
+                "features": [
+                    "Professional designers that are hand-vetted for quality",
+                    "Collaboration tools that make the design process easy",
+                    "Safe payment options for clients and designers",
+                    "We promise you’ll get a completely custom logo design you’ll love, or we’ll give you your money back"
+                ]
+            }
+        ],
+        "designerImages": [
+            {
+                "imageUrl": "categoryPage/showcase/logo-website-squarespace/bundle-details.jpg",
+                "imageCaption": "",
+                "alt": "Image of a laptop with a website on it and ‘Squarespace’ written underneath.",
+                "featureColor": "#15824E"
+            }
+        ],
+        "showcaseDetail": {
+            "title": "Professional logo designers from Torquay to Tokyo…",
+            "copy": "Creating a unique brand shouldn’t all be left up to you. Our global community of design experts takes the headache away, elevating your brand with a web and logo bundle.",
+            "features": [
+                "Professional logo designers worldwide",
+                "All rated and reviewed",
+                "Experienced Squarespace Experts to guide you"
+            ]
+        }
+    },
+    "bundleFeatureComparison": {
+        "title": "Bundle Options",
+        "description": "There are two ways to get your brand humming. Here’s the bundle breakdown of both: ",
+        "bundleIds": ["logo-web-squarespace-essential", "logo-web-squarespace-ecommerce"],
+        "featureComparison": {
+            "logo-design": {
+                "multiple-concepts": "Multiple concepts through a logo contest",
+                "finished-custom-logo-design": "1 finished, custom logo design",
+                "money-back-guarantee": "100% money-back guarantee"
+            },
+            "squarespace": {
+                "content-uploads": "Content uploads",
+                "ecommmerce-capabilities": "Ecommerce capabilities",
+                "website-pages": "Website pages",
+                "design-revisions": "Design revisions",
+                "third-party-plugin": "Third party plugin or extension",
+                "ready-to-launch": "Ready to launch in (days)"
+            }
+        }
+    },
+    "faq": {
+        "description": "Your burning Logo & Squarespace website FAQs, answered.",
+        "faqQuestions": [
+            {
+                "id": "about-squarespace",
+                "title": "What is Squarespace? ",
+                "keywords": ["squarespace"],
+                "messages": [
+                    {
+                        "copy": "Squarespace is a leading DIY website builder that makes it very easy to setup a website. It provides software that allows people to use templates (or custom 99designs web designs) that you can maintain with simple drag-and-drop tools and an easy-to-use editor.",
+                        "links": []
+                    }
+                ]
+            },
+            {
+                "id": "reason-99designs-partnered-squarespace",
+                "title": "Why has 99designs partnered with Squarespace?",
+                "keywords": ["partnered", "squarespace"],
+                "messages": [
+                    {
+                        "copy": "We've partnered with Squarespace to provide clients a professional design option when building out their Squarespace website. For help with anything relating to a Squarespace 1-1 Project with 99designs, please reach out to our support team via email at support@99designs.com, use our online chat feature or give us a call!",
+                        "links": []
+                    }
+                ]
+            },
+            {
+                "id": "how-long-squarespace-bundle-project-take",
+                "title": "How long does the logo and Squarespace bundle project take?",
+                "keywords": ["squarespace"],
+                "messages": [
+                    {
+                        "copy": "Your timeline depends on the scope and complexity of your project. The logo design contest phase of your project works over several rounds, taking 7 days to reach the final round of designer finalists. You then have up to 14 days to choose your winner. If you find something you like sooner, you can always award a winner early.",
+                        "links": []
+                    },
+                    {
+                        "copy": "However, the time it takes to build and design your Squarespace website varies depending on its purpose and the amount of content. But the benefit of choosing a logo and website bundle means that the process is simplified and faster than if you were to hire separate designers and web developers. Whilst some websites can be ready within a week, when you submit your project brief, ensure you include your ideal timeline, and our Experts will factor this into their quote.",
+                        "links": []
+                    }
+                ]
+            },
+            {
+                "id": "what-makes-a-good-business-logo",
+                "title": "What makes a good business logo?",
+                "keywords": ["logo"],
+                "messages": [
+                    {
+                        "copy": "A good company logo does three things: it tells potential customers if the product is right for them; it communicates what you stand for; it makes them remember your brand.",
+                        "links": []
+                    },
+                    {
+                        "copy": "The best way to design a logo that communicates this information is to work with a professional logo designer. They’ll be able to recommend the right type of logo and suggest colors, shapes, and fonts that deliver the message you want your brand to send.",
+                        "links": []
+                    }
+                ]
+            },
+            {
+                "id": "including-web-hosting",
+                "title": "Is web hosting included?",
+                "keywords": ["web hosting"],
+                "messages": [
+                    {
+                        "copy": "Web hosting is an online space that you buy which allows you to create and store (host) content on your website. Squarespace will take care of web hosting for you.",
+                        "links": []
+                    }
+                ]
+            },
+            {
+                "id": "what-squarespace-export-do",
+                "title": "What can my Squarespace Expert do? ",
+                "keywords": ["squarespace", "export"],
+                "messages": [
+                    {
+                        "copy": "Your Squarespace Expert can design guide you through your initial website build and help you set it up. They will then begin collaborating with you to create a unique and customized design for your website.",
+                        "links": []
+                    }
+                ]
+            }
+        ]
+    },
+    "blogPosts": [
+        {
+            "thumbnailUrl": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/01/Colors-in-web-design.jpg?auto=format&q=60&w=450&h=270&fit=crop&crop=faces",
+            "title": "How to choose the right colors for your web design",
+            "publishedAt": 1546610400000,
+            "readTimeMinutes": 9,
+            "url": "/blog/web-digital/web-design-colors/",
+            "channel": "Logo & Website"
+        },
+        {
+            "thumbnailUrl": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/11/WEB-DESIGN-TIPS.jpg?auto=format&q=60&w=450&h=270&fit=crop&crop=faces",
+            "title": "Top 10 web design tips to get the ideal website",
+            "publishedAt": 1541088064000,
+            "readTimeMinutes": 21,
+            "url": "/blog/web-digital/top-web-design-tips/",
+            "channel": "Logo & Website"
+        },
+        {
+            "thumbnailUrl": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2021/01/web_design_ideas___refresh_2020_jpg_iAI1RSXc.jpg?auto=format&q=60&w=450&h=270&fit=crop&crop=faces",
+            "title": "38 stunning web design ideas that will get people clicking",
+            "publishedAt": 1610532000000,
+            "readTimeMinutes": 13,
+            "url": "/blog/creative-inspiration/web-design-ideas/",
+            "channel": "Logo & Website"
+        }
+    ]
+}
